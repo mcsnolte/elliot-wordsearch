@@ -1,0 +1,27 @@
+{
+  "puzzleId": "winter_themed_1",
+  "title": "Winter Fun",
+  "difficulty": "easy",
+  "gridSize": {
+    "rows": 10,
+    "cols": 10
+  },
+  "words": [
+    {
+      "word": "SNOW",
+      "hint": "White precipitation in winter"
+    },
+    {
+      "word": "ICE",
+      "hint": "Frozen water"
+    },
+    {
+      "word": "COLD",
+      "hint": "Winter temperature"
+    },
+    {
+      "word": "FROST",
+      "hint": "Icy coating on surfaces"
+    }
+  ]
+} 

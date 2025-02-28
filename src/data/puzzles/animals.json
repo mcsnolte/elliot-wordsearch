@@ -1,0 +1,35 @@
+{
+  "puzzleId": "animals_1",
+  "title": "Animal Kingdom",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 12,
+    "cols": 12
+  },
+  "words": [
+    {
+      "word": "LION",
+      "hint": "King of the jungle"
+    },
+    {
+      "word": "TIGER",
+      "hint": "Striped big cat"
+    },
+    {
+      "word": "ZEBRA",
+      "hint": "Black and white stripes"
+    },
+    {
+      "word": "GIRAFFE",
+      "hint": "Longest neck"
+    },
+    {
+      "word": "MONKEY",
+      "hint": "Swings in trees"
+    },
+    {
+      "word": "PENGUIN",
+      "hint": "Flightless arctic bird"
+    }
+  ]
+} 

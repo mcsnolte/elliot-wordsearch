@@ -1,0 +1,43 @@
+{
+  "puzzleId": "unicorns_1",
+  "title": "Magical Unicorns",
+  "difficulty": "medium",
+  "gridSize": {
+    "rows": 15,
+    "cols": 15
+  },
+  "words": [
+    {
+      "word": "UNICORN",
+      "hint": "Magical horse with a horn"
+    },
+    {
+      "word": "RAINBOW",
+      "hint": "Colorful arch in the sky"
+    },
+    {
+      "word": "SPARKLE",
+      "hint": "Magical twinkling light"
+    },
+    {
+      "word": "GLITTER",
+      "hint": "Shiny decorative particles"
+    },
+    {
+      "word": "MAGIC",
+      "hint": "Supernatural powers"
+    },
+    {
+      "word": "HORN",
+      "hint": "Unicorn's special feature"
+    },
+    {
+      "word": "MANE",
+      "hint": "Flowing hair on neck"
+    },
+    {
+      "word": "WINGS",
+      "hint": "For magical flight"
+    }
+  ]
+} 
